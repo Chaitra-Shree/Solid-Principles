@@ -2,6 +2,10 @@ package OpenClosedPrinciple.WithOcp;
 
 import OpenClosedPrinciple.WithOcp.Interface.InvoiceGenerator;
 
+/*
+Open Closed Principle:
+Software entities (such as classes, modules, and functions) should be open for extension, but closed for modification.
+ */
 public class Invoice {
     private double amount;
     private InvoiceGenerator invoiceGenerator;
