@@ -12,4 +12,5 @@ public class SOC {
     1. Database operations
     2. Business logic
      */
+
 }
